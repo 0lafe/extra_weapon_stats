@@ -9,7 +9,7 @@
   "hooks": [
     {
       "hook_id": "lib/managers/menu/blackmarketgui",
-      "script_path": "blackmarketgui.lua"
+      "script_path": "mod.lua"
     }
   ],
   "updates": [
