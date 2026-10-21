@@ -1,6 +1,0 @@
-<?xml version="1.0"?>
-<mod name="Extra Weapon Stats">
-	<hooks script_path="mod.lua">
-		<post hook_id="lib/managers/menu/blackmarketgui"/>
-	</hooks>
-</mod>
