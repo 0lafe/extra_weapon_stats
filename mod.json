@@ -1,0 +1,17 @@
+{
+  "name": "Extra Weapon Stats",
+  "description": "Morer Weapon Stats",
+  "author": "Lafe",
+  "contact": "N/A",
+  "version": "1.0",
+  "color": "0.52 1 0",
+  "blt_version": 2,
+  "updates": [
+    {
+      "identifier": "extra_weapon_stats",
+      "host": {
+        "meta": "https://raw.githubusercontent.com/0lafe/extra_weapon_stats/refs/heads/main/meta.json"
+      }
+    }
+  ]
+}
